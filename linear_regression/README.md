@@ -2,7 +2,7 @@
 
 multivariate linear (C++17) using **batch gradient descent**.
 
-**Goal:** Multivariate Linear Regression using low-level numerical computation (without relying on external machine learning libraries).
+**Goal:** Multivariate Linear Regression using low-level numerical computation (without relying on external machine learning libraries, for learning purposes).
 
 ---
 
