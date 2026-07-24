@@ -1,6 +1,6 @@
-# C++ Machine Learning Projects
+# C++ with Machine Learning
 
-This repository contains three machine learning projects (C++):
+This repository is made up of 3 machine learning projects (C++):
 
 ### **Note (READ):** Descriptive Math-Heavy README's located within algorithm directories (open each directory to see)
 
