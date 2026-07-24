@@ -1,6 +1,6 @@
-# C++ with Machine Learning
+# Low-Level Machine Learning (C++)
 
-This repository is made up of 3 machine learning projects (C++):
+This repo is made up of 3 ML-Based projects (C++):
 
 ### **Note (READ):** Descriptive Math-Heavy README's located within algorithm directories (open each directory to see)
 
