@@ -1,8 +1,7 @@
 # Parallel K-Means Clustering (C++17)
+This project implements the **K-Means clustering algorithm**.
 
 K-Means is an **unsupervised learning algorithm**. It discovers groups in data without requiring known class labels.
-
-This project implements the **K-Means clustering algorithm**.
 
 K-Means clustering algorithm:
 
