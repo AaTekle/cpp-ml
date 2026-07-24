@@ -225,7 +225,7 @@ where:
 - $2$ (the exponent) — Squares the standard deviation to produce the variance.
 - $0.25^2$ — The **variance ($\sigma^2$)** of the distribution.
 
-Therefore:
+then:
 
 ```math
 \operatorname{Var}(\epsilon) = 0.25^2 = 0.0625
@@ -672,7 +672,7 @@ The percentage reduction is:
 \approx 99.81\%
 ```
 
-The model therefore reduced its training loss by approximately **99.81%**.
+The model then reduced its training loss by approximately **99.81%**.
 
 The loss stopped changing at the displayed precision after epoch 250, indicating convergence.
 
@@ -908,7 +908,7 @@ Including noise variance:
 = 31
 ```
 
-An approximate expected $R^2$ is therefore:
+An approximate expected $R^2$ is then:
 
 ```math
 R^2
@@ -939,7 +939,7 @@ The variance is:
 
 Because the noise is random and independent of the features, a linear regression model cannot predict it.
 
-The theoretical minimum expected MSE is therefore close to:
+The theoretical minimum expected MSE is then closer to:
 
 ```math
 0.0625
@@ -1083,7 +1083,7 @@ n = 20000
 p = 5
 ```
 
-The model therefore performs on the order of:
+The model then performs on the order of:
 
 ```math
 2500 \times 20000 \times 5
