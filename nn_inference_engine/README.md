@@ -1,7 +1,5 @@
 # Neural Network Inference Engine
 
-## Overview
-
 Simple feedforward neural network (C++17).
 
 The network consists of:
