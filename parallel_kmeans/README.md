@@ -41,7 +41,7 @@ where:
 
 Each point contains eight numerical features.
 
-The complete dataset therefore stores:
+The complete dataset then stores:
 
 ```math
 200{,}000 \times 8 = 1{,}600{,}000
@@ -494,7 +494,7 @@ Each thread:
 
 No two threads write to the same label position.
 
-Therefore, the assignment step does not require a mutex.
+then, the assignment step does not require a mutex.
 
 All threads are joined before centroid recomputation begins:
 
