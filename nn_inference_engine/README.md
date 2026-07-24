@@ -23,7 +23,7 @@ Production inference often values latency, predictable memory use, binary deploy
 This NN implements matrix-vector operations, ReLU, softmax, and binary model serialization without a heavyweight runtime.
 
 
-## Concepts demonstrated
+## Concepts (applied)
 
 - Dense layers
 - Matrix-vector multiplication
