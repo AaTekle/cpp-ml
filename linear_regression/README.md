@@ -577,7 +577,6 @@ for each epoch:
 * Uses the complete dataset for each update
 * Produces stable gradients
 * Is easy to understand
-* Can be expensive for extremely large datasets
 
 ### Stochastic Gradient Descent
 
