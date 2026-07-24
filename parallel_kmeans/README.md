@@ -217,7 +217,7 @@ where:
 * $\mu$ : Greek letter “mu,” representing a centroid or mean.
 * $k$ : Cluster index.
 * $D$ : Number of dimensions.
-* $\sum$ : Greek capital sigma, meaning “add all terms.”
+* $\sum$ : Greek capital sigma, meaning add all terms.
 * $j$ : Current dimension index.
 * $j=0$ : Begin with the first dimension.
 * $D-1$ : Final valid dimension index.
