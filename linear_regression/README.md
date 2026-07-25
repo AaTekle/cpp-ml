@@ -619,11 +619,7 @@ the selected learning rate converged stably for the generated dataset.
 
 One epoch is one complete pass through the training dataset.
 
-This project runs:
-
-```text
-2,500 epochs
-```
+This project runs 2,500 epochs
 
 Each epoch processes all 20,000 training observations.
 
