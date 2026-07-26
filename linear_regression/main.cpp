@@ -23,7 +23,7 @@
             ...
         ]
 
-    Although x represents a two-dimensional matrix, it is stored as one
+     x represents a two-dimensional matrix, it is stored as one
     contiguous one-dimensional std::vector<double>.
 
     A value at logical position [row][col] is accessed with:
@@ -48,7 +48,7 @@ struct Dataset {
 
             rows * cols
 
-        Each double usually occupies 8 bytes, so the approximate feature
+        Each double takes up 8 bytes, so the feature
         memory usage is:
 
             rows * cols * sizeof(double)
