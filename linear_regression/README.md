@@ -8,18 +8,16 @@ multivariate linear (C++17) using **batch gradient descent**.
 
 ## Linear Regression
 
-Linear regression is a supervised machine learning algorithm used to predict a continuous numerical value.
+Linear regression is a supervised ml algorithm used to predict a continuous numerical value.
 
 e.g. include:
 
 * Predicting house prices
 * Estimating revenue
-* Forecasting energy consumption
 * Predicting customer lifetime value
-* Estimating delivery times
 * Modeling relationships between numerical variables
 
-The algorithm assumes that the target variable can be approximated as a linear combination of the input features.
+Linear regression assumes that the target variable can be approximated as a linear combination of the input features.
 
 For one feature, the model is:
 
