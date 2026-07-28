@@ -971,8 +971,8 @@ A materially lower test MSE should not be expected unless:
 
 Generalization describes how well a model performs on unseen data.
 
-* Training result: Training MSE = 0.0631
-* Test result: Test MSE = 0.0644
+Training result: Training MSE = 0.0631
+Test result: Test MSE = 0.0644
 
 Because the values are close, the model generalizes well.
 
