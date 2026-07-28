@@ -176,7 +176,7 @@ These steps repeat until the centroids stop moving or the maximum number of iter
 
 ---
 
-## Step 1: Initialize Centroids
+## Step 1: Set-Up Centroids
 
 K-Means needs an initial location for each centroid.
 
@@ -196,7 +196,7 @@ This helps the algorithm converge quickly in this example.
 
 ---
 
-## Step 2: Calculate Distance
+## Step 2: Calculate Distances
 
 Each point is compared with every centroid using squared Euclidean distance.
 
@@ -343,7 +343,7 @@ where:
 
 ## Step 5: Measure Centroid Shift
 
-After recalculating the centroids, the program measures their total movement.
+After recalculating the centroids, the script measures their total movement.
 
 ```math
 S
@@ -399,7 +399,7 @@ The configured tolerance is:
 1e-6
 ```
 
-This is scientific notation for:
+scientific notation for:
 
 ```math
 1\times10^{-6}=0.000001
