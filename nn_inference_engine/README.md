@@ -222,6 +222,6 @@ restored model first probability: 0.289404
 - Uses **Softmax** to produce normalized class probabilities.
 - Initializes weights using **Xavier (Glorot) initialization** for improved numerical stability.
 - Supports **binary model serialization**, allowing trained parameters to be saved and restored.
-- Performs **deterministic inference** by using a fixed random seed (`42`), producing reproducible results.
+- uses **deterministic inference** by using a fixed random seed (`42`), producing reproducible results.
 
 - simple implmentation of neural network architecture, forward propagation, activation functions, Softmax classification, and model serialization.
