@@ -226,7 +226,7 @@ where:
 then:
 
 ```math
-\operatorname{Var}(\epsilon) = 0.25^2 = 0.0625
+\mathrm{Var}(\epsilon) = 0.25^2 = 0.0625
 ```
 
 noise makes the problem more realistic. Without noise, the model could (theoretically) recover the relationship with almost zero prediction error.
