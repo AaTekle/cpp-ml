@@ -988,22 +988,23 @@ Test MSE = 0.0644
 
 Because the values are close, the model generalizes well.
 
-There is no meaningful evidence of overfitting.
+There is no evidence of model overfitting.
 
-A model would show stronger evidence of overfitting if:
+Note for Learning:
+models would show stronger evidence of overfitting if:
 
 * Training error continued to decrease
 * Test error increased significantly
 * Learned parameters became unstable
 * Performance depended heavily on the training sample
 
-That pattern is not present here.
+That pattern is not present within this regression model.
 
 ---
 
 ## Underfitting
 
-Underfitting usually occurs when a model is too simple or insufficiently trained to capture the underlying numerical relationship.
+Underfitting usually comes up when a model is too simple or not trained well enough to capture the underlying numerical relationship.
 
 Evidence of underfitting would include:
 
